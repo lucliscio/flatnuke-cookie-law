@@ -1,2 +1,2 @@
 # flatnuke-cookielaw
-Make Flatnuke compliant to EU Cookie law
+Make Flatnuke to be compliant with EU Cookie law.
