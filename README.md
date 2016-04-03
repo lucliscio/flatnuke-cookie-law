@@ -30,9 +30,9 @@ https://silktide.com/tools/cookie-consent/docs/
 ### Author
 Marco Segato
 
-### Version
-20160403 - JS upgrade
-20150614 - First revision
+### History
+* 20160403 - JS upgrade | Marco Segato
+* 20150614 - First revision | Marco Segato
 
 ###License
 GNU GENERAL PUBLIC LICENSE Version 2
